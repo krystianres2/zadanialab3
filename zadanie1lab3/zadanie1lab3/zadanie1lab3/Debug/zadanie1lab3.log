@@ -1,0 +1,3 @@
+﻿  zadanie1lab3.cpp
+C:\Users\W65551\zadanie1lab3\zadanie1lab3\zadanie1lab3.cpp(57,13): warning C4244:  "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  zadanie1lab3.vcxproj -> C:\Users\W65551\zadanie1lab3\Debug\zadanie1lab3.exe
